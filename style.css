@@ -1,32 +1,85 @@
+/* ===== RESET DASAR ===== */
+* {
+  box-sizing: border-box;
+}
+
+/* ===== BODY ===== */
 body {
+  margin: 0;
+  padding: 20px;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #0f0f0f;
   color: #eaeaea;
-  padding: 20px;
+  line-height: 1.6;
 }
 
+/* ===== NAVIGATION ===== */
 nav {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 nav a {
   color: #4da6ff;
   text-decoration: none;
-  margin-right: 10px;
+  margin-right: 12px;
+  font-weight: bold;
 }
 
 nav a:hover {
   text-decoration: underline;
 }
 
+/* ===== HEADINGS ===== */
 h1 {
   margin-top: 0;
+  font-size: 2rem;
 }
 
+h2 {
+  margin-top: 30px;
+  font-size: 1.4rem;
+  border-bottom: 1px solid #333;
+  padding-bottom: 5px;
+}
+
+/* ===== TEXT ===== */
+p {
+  max-width: 700px;
+}
+
+/* ===== LIST ===== */
 ul {
   padding-left: 20px;
 }
 
+li {
+  margin-bottom: 8px;
+}
+
+/* ===== LINKS ===== */
 a {
   color: #4da6ff;
+}
+
+a:hover {
+  opacity: 0.85;
+}
+
+/* ===== FOOTER ===== */
+footer {
+  margin-top: 50px;
+  font-size: 0.9rem;
+  color: #aaa;
+  border-top: 1px solid #333;
+  padding-top: 10px;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 600px) {
+  body {
+    padding: 15px;
+  }
+  h1 {
+    font-size: 1.6rem;
+  }
 }
