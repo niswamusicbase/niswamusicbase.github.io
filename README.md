@@ -1,6 +1,6 @@
-# 🎵 Niswa Music Base
+# 🎵 AjaibHelm Production 
 
-**Niswa Music Base** adalah halaman resmi untuk karya musik, audio, dan eksplorasi kreatif berbasis digital.  
+**AjaibHelm Production** adalah halaman resmi untuk karya musik, audio, dan eksplorasi kreatif berbasis digital.  
 Website ini dibuat menggunakan **GitHub Pages** sebagai pusat profil artis dan arsip karya.
 
 🌐 Website resmi:  
@@ -51,7 +51,7 @@ Konten dan tampilan akan diperbarui secara bertahap.
 ## 📬 Kontak
 
 Untuk kerja sama atau pertanyaan:
-- Email: _(isi nanti)_
+- Email: ----
 - Platform musik & sosial: _(akan ditambahkan)_
 
 ---
